@@ -38,4 +38,4 @@ jobs:
         #<корневая_папка_infra_actions>/<папка_проекта>/manage.py
         cd infra_actions/infra_project/manage.py
         # запустить написанные разработчиком тесты
-        python manage.py pytest 
+        python manage.py test 
