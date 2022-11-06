@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '51.250.66.131',
+    'kravchun.ru'
 ]
 
 
